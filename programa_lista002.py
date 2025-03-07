@@ -27,7 +27,7 @@ while contador < len(lista):
 
 # Saída de dados
 
-if Achou:
+if achou:
     print(f"o numero {numero} foi encontrado na posiçao {contador}.")
 else:
     print("o numero nao foi encontrado.")
